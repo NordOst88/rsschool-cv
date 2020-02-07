@@ -18,3 +18,12 @@ My main goal is to improve web-development skills.
 - CSS
 - JavaScript basics
 - GitHub
+
+#### **Education**
+- Saratov State University (2004-2009)
+- [HTML Acacdemy (2019)](https://htmlacademy.ru)
+- [The Modern JavaScript Tutorial (2020)](https://learn.javascript.ru/)
+
+#### **Languages**
+- Native speaker of Russian
+- Pre-Intermediate (A2) learner of English
