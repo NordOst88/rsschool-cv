@@ -1,0 +1,94 @@
+  
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  h1 {
+    text-align: center;
+   }
+
+   h1,
+   h2,
+   h3 {
+     font-family: 'Abel', sans-serif;
+   }
+
+   p {
+    text-indent: 1.5em;
+   }
+
+   body {
+    font-family: 'Abel', sans-serif;
+   }
+
+
+   .main {
+    background-color:  #E0E0E0;
+    color: black;
+    padding: 65px;
+    max-width: 900px;
+    width: 90%;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+              -23px 0 20px -23px rgba(0, 0, 0, .6),
+              23px 0 20px -23px rgba(0, 0, 0, .6),
+              inset 0 0 40px rgba(0, 0, 0, .1);
+  }
+
+  .aboutme {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 25px;
+  }
+
+  .avatar {
+    display: block;
+    width: 30%;
+    text-align: center;
+  }
+
+  .contacts {
+    display: block;
+    width: 70%;
+  }
+
+  img {
+    border-radius: 5%;
+  }
+
+  .contacts-title {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    margin-left: 20px;
+  }
+
+  .contacts-list {
+    padding: 0;
+    margin-left: 40px;
+}
+
+  .contacts-list-item  {
+    margin-bottom: 5px;
+  }
+
+  .main-item {
+    margin-bottom: 45px;
+  }
+  
+  .main-item :last-child {
+    margin-bottom: 0;
+  }
+
+  .main-item-title {
+    font-size: 1.7rem;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .main-item-text,
+  .main-item-list,
+  .main-list-item  {
+    font-size: 1.2rem;
+  }
